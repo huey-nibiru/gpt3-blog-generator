@@ -1,1 +1,1 @@
-api_key = "YOUR-KEY-HERE"
+api_key = "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"
